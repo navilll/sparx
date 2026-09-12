@@ -5621,7 +5621,7 @@ Main Header-style-three
   display: none;
 }
 .header-style-two.style-two .main-box .outer-box {
-  padding-right: 46px;
+  padding: 25px;
 }
 .header-style-two.style-two .main-box .outer-box .info-btn {
   margin-right: 0;

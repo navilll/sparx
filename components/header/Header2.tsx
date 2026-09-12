@@ -86,7 +86,7 @@ const Header2: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove
           <div className="auto-container">
             <div className="inner-container">
               <div className="logo">
-                <Link href="#" title=""><Image src="/assets/images/logo.webp" alt="" width={250} height={67} priority /></Link>
+                <Link href="#" title=""><Image src="/assets/images/logo.webp" alt="" width={200} height={67} priority /></Link>
               </div>
               <div className="nav-outer">
                 <nav className="main-menu">
