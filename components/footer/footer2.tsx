@@ -18,7 +18,7 @@ const Footer2: React.FC = () => {
               <div className="content">
                 <div className="subtitle">office address</div>
                 <div className="text">
-                  2704/8 7th Main, Shivalay, Mysuru, Karnataka, 570020
+                   Ist Floor, No 28,DCNET BUILDING, 5th Cross,<br/> 6th Main Rd, Mico Layout, BTM Layout 2nd Stage,<br/> Bengaluru, Karnataka 560076
                 </div>
               </div>
             </li>
@@ -51,7 +51,7 @@ const Footer2: React.FC = () => {
               <div className="footer-widget about-widget">
                 <figure className="image" style={{ backgroundColor: "white", padding: "10px", borderRadius: "5px" }}>
                   <Link href="/">
-                    <Image src="/assets/images/logo.webp" alt="Logo" width={150} height={67} priority />
+                    <Image src="/assets/images/logo.webp" alt="Logo" width={250} height={67} priority />
                   </Link>
                 </figure>
                 <div className="text">

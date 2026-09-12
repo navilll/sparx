@@ -78,7 +78,7 @@ const FaqSection: React.FC = ()=> {
             <div className="inner-column">
               <figure className="image bounce-x">
                 <Image
-                  src="/assets/images/resource/faq1-1.webp"
+                  src="/assets/images/resource/faq.webp"
                   alt="FAQ Illustration"
                   width={500}
                   height={500}

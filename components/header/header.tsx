@@ -55,7 +55,7 @@ const Header: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove2
         <div className="main-box">
           <div className="logo-box">
             <div className="logo">
-              <Link href="/"><Image src="/assets/images/logo.webp" alt="Logo" width={150} height={67} priority /></Link>
+              <Link href="/"><Image src="/assets/images/logo.webp" alt="Logo" width={250} height={67} priority /></Link>
             </div>
           </div>
 
@@ -85,7 +85,7 @@ const Header: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove2
         <nav className="menu-box">
           <div className="upper-box">
             <div className="nav-logo">
-              <Link href="/"><Image src="/assets/images/logo.webp" alt="Logo" width={150} height={67} /></Link>
+              <Link href="/"><Image src="/assets/images/logo.webp" alt="Logo" width={200} height={67} /></Link>
             </div>
             <div className="close-btn" onClick={() => { handleRemove(); handleRemove2(); }}>
               <i className="icon fa fa-times"></i>
@@ -128,7 +128,7 @@ const Header: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove2
         <div className="auto-container">
           <div className="inner-container">
             <div className="logo">
-              <Link href="/"><Image src="/assets/images/logo.webp" alt="Logo" width={150} height={67} /></Link>
+              <Link href="/"><Image src="/assets/images/logo.webp" alt="Logo" width={200} height={67} /></Link>
             </div>
             <div className="nav-outer">
               <nav className="main-menu">
