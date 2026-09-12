@@ -46,7 +46,7 @@ const Header2: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove
             <div className="upper-box">
                 <div className="nav-logo">
                   <Link href="#">
-                    <Image src="/assets/images/logo.webp" alt="" width={250} height={67} priority />
+                    <Image src="/assets/images/logo.webp" alt="" width={150} height={67} priority />
                   </Link>
                 </div>
                 <div className="close-btn" onClick={() => { handleRemove(); handleRemove2(); }}><i className="icon fa fa-times"></i></div>
@@ -58,17 +58,17 @@ const Header2: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove
               <li>
                 <i className="icon lnr-icon-phone-handset"></i>
                 <span className="title">Call Now</span>
-                <div className="text"><Link href="#">+92 (8800) - 98670</Link></div>
+                <div className="text"><Link href="tel:+917996167000">+91-7996167000</Link></div>
               </li>
               <li>
                 <i className="icon lnr-icon-envelope1"></i>
                 <span className="title">Send Email</span>
-                <div className="text"><Link href="#">help@company.com</Link></div>
+                <div className="text"><Link href="mailto:rishika@sparz.co.in">rishika@sparz.co.in</Link></div>
               </li>
               <li>
                 <i className="icon lnr-icon-map-marker"></i>
                 <span className="title">Address</span>
-                <div className="text">66 Broklyant, New York India 3269</div>
+                <div className="text">1st Floor, No 28, DCNET BUILDING, 5th Cross, 6th Main Rd, Mico Layout, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076</div>
               </li>
             </ul>
             <ul className="social-links">

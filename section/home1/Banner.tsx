@@ -20,7 +20,7 @@ const BannerSection: React.FC = ()=> {
           <br/><span className="color">Business</span>
         </>
       ),
-      text: "Premium analog phones built for clear, reliable communication across offices, hotels, hospitals, schools, and businesses.",
+      text: "Premium analog phones built for clear, reliable communication across offices, hotels, hospitals, schools, and businesses and many more.",
       button: "Explore Products",
       buttonLink: "/products",
       image: "/assets/images/banner/phone.webp",

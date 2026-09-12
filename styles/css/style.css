@@ -5492,14 +5492,10 @@ Main Header-style-three
   -ms-flex-negative: 0;
       flex-shrink: 0;
 }
-@media (max-width: 575.98px) {
-  .header-style-one .header-lower .logo-box {
-    padding: 10px 0;
-  }
-}
+
 .header-style-one .header-lower .logo-box .logo {
   position: relative;
-  max-width: 270px;
+  max-width: 220px;
 }
 .header-style-one .header-lower .nav-outer {
   position: relative;
@@ -5508,7 +5504,7 @@ Main Header-style-three
 }
 @media (max-width: 1199.98px) {
   .header-style-one .header-lower .nav-outer {
-    padding-left: 75px;
+    padding-left: 15px;
   }
 }
 @media (max-width: 1199.98px) {
@@ -5584,6 +5580,7 @@ Main Header-style-three
 @media (max-width: 575.98px) {
   .header-style-one .header-lower .outer-box .mobile-nav-toggler {
     margin-left: 15px;
+    margin-top: 15px;
   }
 }
 
@@ -7542,7 +7539,8 @@ Main Header-style-three
 }
 @media (max-width: 1199.98px) {
   .banner-section .nav-box {
-    margin-left: 0;
+    margin-left: -25px;
+    margin-bottom: 25px;
   }
 }
 @media (max-width: 767.98px) {
