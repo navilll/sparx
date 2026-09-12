@@ -3,6 +3,8 @@ import Banner from "../section/home1/Banner";
 import About from "../section/home1/About";
 import Service from "../section/home1/Service";
 import Benefit from "../section/home1/Benefit";
+import Funfact from "../section/home1/Funfact";
+import Project from "../section/home1/Project";
 import Testimonial from "../section/home1/Testimonial";
 import LayoutWrapper from "./LayoutWrapper";
 
@@ -18,6 +20,8 @@ const Home: React.FC = () => {
       <Banner />
       <About />
       <Service />
+      <Funfact />
+      <Project />
       <Benefit />
       <Testimonial />
     </LayoutWrapper>
