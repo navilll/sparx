@@ -162,7 +162,7 @@ const Footer2: React.FC = () => {
         <div className="auto-container">
           <div className="inner-container">
             <div className="copyright-text">
-              Copyright © SPARZ TELECOM (OPC) PVT. LTD., All Rights Reserved.
+              Copyright © SPARZ TELECOM, All Rights Reserved.
             </div>
             <div className="right-box">
               <ul className="footer-nav">

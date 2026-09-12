@@ -7,7 +7,7 @@ const ContactInner: React.FC = () => {
         <>
     <section className="contact-section-five">
       <div className="outer-box">
-        <div className="auto-container">
+        <div className="contact-controller">
           <div className="row">
             {/* Content Column */}
             <div

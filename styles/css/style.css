@@ -19262,7 +19262,7 @@ Main Header-style-three
 ***/
 .contact-section-five {
   position: relative;
-  padding: 120px 0px 120px;
+  padding: 40px 0px 40px;
 }
 .contact-section-five .outer-box {
   position: relative;
@@ -19344,9 +19344,7 @@ Main Header-style-three
   -webkit-transform: scale(1);
           transform: scale(1);
 }
-.contact-section-five .contact-column {
-  padding-left: 35px;
-}
+
 .contact-section-five .contact-column .inner-column {
   background: var(--gradient-1);
   padding: 55px 40px 60px;
@@ -24987,7 +24985,9 @@ Main Header-style-three
 }
 @media (max-width: 575.98px) {
   .footer-style-one.style-two .footer-bottom .scroll-to-top {
-    padding: 10px 0;
+    padding: 10px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
   }
 }
 .footer-style-one .about-widget {
@@ -28019,4 +28019,8 @@ Section Title
   background: var(--theme-color-white);
   padding: 1px 15px;
   margin: 0px 0 10px 6px;
+}
+.contact-controller{
+  padding:10px;
+  margin-right: 20px;
 }
