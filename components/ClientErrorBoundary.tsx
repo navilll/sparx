@@ -7,7 +7,7 @@ interface ClientErrorBoundaryProps {
   children: ReactNode;
 }
 
-export default function ClientErrorBoundary({ children }: ClientErrorBoundaryProps): JSX.Element {
+export default function ClientErrorBoundary({ children }: ClientErrorBoundaryProps) {
   return <ErrorBoundary>{children}</ErrorBoundary>;
 }
 

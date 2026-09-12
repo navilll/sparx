@@ -12,7 +12,7 @@ export const metadata = {
     "SPARZ TELECOM provides reliable analog telephone and business communication solutions for offices, hotels, hospitals, schools and businesses across India.",
 };
 
-const Home: React.FC = (): JSX.Element => {
+const Home: React.FC = () => {
   return (
     <LayoutWrapper>
       <Banner />

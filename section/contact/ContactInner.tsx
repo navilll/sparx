@@ -2,7 +2,7 @@
 import React from 'react';
 import Link from 'next/link';
 
-const ContactInner: React.FC = (): JSX.Element => {
+const ContactInner: React.FC = () => {
     return (
         <>
     <section className="contact-section-five">

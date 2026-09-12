@@ -13,7 +13,7 @@ export const metadata = {
     "Learn about SPARZ TELECOM and our reliable analog telephone and business communication solutions.",
 };
 
-const AboutPage: React.FC = (): JSX.Element => {
+const AboutPage: React.FC = () => {
   return (
     <LayoutWrapper HeaderStyle="two">
       <PageTitle pageName="About Us" />

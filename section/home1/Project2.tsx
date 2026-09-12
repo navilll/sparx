@@ -28,7 +28,7 @@ const steps = [
   },
 ];
 
-const WorkProcessSection: React.FC = (): JSX.Element => {
+const WorkProcessSection: React.FC = ()=> {
   return (
     <section className="project-section-four">
       <div className="icon-21 bounce-x"></div>

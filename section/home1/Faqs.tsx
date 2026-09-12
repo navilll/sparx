@@ -30,7 +30,7 @@ const faqs = [
   },
 ];
 
-const FaqSection: React.FC = (): JSX.Element => {
+const FaqSection: React.FC = ()=> {
   const [activeIndex, setActiveIndex] = useState(0);
 
   const toggleAccordion = (index: number) => {

@@ -8,7 +8,7 @@ import "swiper/css/navigation";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay } from "swiper/modules";
 
-const BannerSection: React.FC = (): JSX.Element => {
+const BannerSection: React.FC = ()=> {
   const slides = [
     {
       id: 1,

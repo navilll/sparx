@@ -37,7 +37,7 @@ const accordionData = [
   },
 ];
 
-const HzAccordionSection: React.FC = (): JSX.Element => {
+const HzAccordionSection: React.FC = ()=> {
   const [activeIndex, setActiveIndex] = useState(0);
 
   return (

@@ -28,7 +28,7 @@ const testimonials = [
   },
 ];
 
-const TestimonialSection: React.FC = (): JSX.Element => {
+const TestimonialSection: React.FC = ()=> {
   const [activeIndex, setActiveIndex] = useState(0);
 
   return (

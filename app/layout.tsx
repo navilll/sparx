@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "Reliable analog phones and business communication solutions for offices, hotels, hospitals, schools and businesses across India.",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }): JSX.Element {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" data-scroll-behavior="smooth" className={`${dmSans.variable} ${monaSans.variable} ${outfit.variable} ${playfairDisplay.variable}`}>
       <body className="scroll-smooth" suppressHydrationWarning>

@@ -2,7 +2,7 @@
 
 import Preloader from "./elements/Preloader";
 
-export default function ClientPreloader(): JSX.Element {
+export default function ClientPreloader() {
   return <Preloader />;
 }
 

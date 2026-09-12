@@ -37,7 +37,7 @@ const services = [
     features: ["PBX Compatible", "Campus-Wide Coordination", "Quick Response"],
   },
 ];
-const ServicesSection: React.FC = (): JSX.Element => {
+const ServicesSection: React.FC = ()=> {
   return (
     <section className="service-section">
       <div className="bg bg-pattern-2"></div>

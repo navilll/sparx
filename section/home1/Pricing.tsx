@@ -43,7 +43,7 @@ const pricingPlans = [
   },
 ];
 
-const PricingSection: React.FC = (): JSX.Element => {
+const PricingSection: React.FC = ()=> {
   return (
     <section className="pricing-section">
       <div className="shape-9"></div>

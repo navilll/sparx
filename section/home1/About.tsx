@@ -4,7 +4,7 @@ import Link from 'next/link';
 import ProgressBar2 from '../../components/elements/ProgressBar2';
 
 
-const About: React.FC = (): JSX.Element => {
+const About: React.FC = ()=> {
   return (
     <section className="about-section">
         <div className="shape-2"></div>

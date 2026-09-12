@@ -20,7 +20,7 @@ const benefits = [
   },
 ];
 
-const BenefitSection: React.FC = (): JSX.Element => {
+const BenefitSection: React.FC = ()=> {
   return (
     <section className="benefit-section">
       <div className="bg bg-pattern-5"></div>
