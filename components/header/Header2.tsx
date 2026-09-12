@@ -46,7 +46,7 @@ const Header2: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove
             <div className="upper-box">
                 <div className="nav-logo">
                   <Link href="#">
-                    <Image src="/assets/images/logo.webp" alt="" width={150} height={67} priority />
+                    <Image src="/assets/images/logo.webp" alt="" width={120} height={67} priority />
                   </Link>
                 </div>
                 <div className="close-btn" onClick={() => { handleRemove(); handleRemove2(); }}><i className="icon fa fa-times"></i></div>
