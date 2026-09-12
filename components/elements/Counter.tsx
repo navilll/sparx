@@ -7,7 +7,7 @@ interface CounterProps {
   duration: number;
 }
 
-export default function Counter({ end, duration }: CounterProps): JSX.Element {
+export default function Counter({ end, duration }: CounterProps) {
     const [count, setCount] = useState(0);
     const countRef = useRef<HTMLSpanElement>(null);
     const [inViewport, setInViewport] = useState(false);

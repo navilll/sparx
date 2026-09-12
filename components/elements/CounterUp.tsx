@@ -6,7 +6,7 @@ interface CounterUpProps {
   end: number;
 }
 
-export default function CounterUp({ end }: CounterUpProps): JSX.Element {
+export default function CounterUp({ end }: CounterUpProps) {
     const [inViewport, setInViewport] = useState(false);
     const ref = useRef<HTMLSpanElement>(null);
 
