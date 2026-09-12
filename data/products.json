@@ -1,0 +1,56 @@
+[
+  {
+    "id": "skl019",
+    "name": "SPARZ SKL019 Analog Desk Phone",
+    "category": "Analog Phones",
+    "rating": 4.8,
+    "image": "/assets/images/resource/project1-1.jpg",
+    "description": "A dependable analog desk phone with clear audio and a practical design for reception desks, offices, and hotel rooms.",
+    "specs": ["Caller ID compatible", "Hands-free speakerphone", "PBX / EPABX ready", "3-year service support"]
+  },
+  {
+    "id": "skl101",
+    "name": "SPARZ SKL101 Business Telephone",
+    "category": "Business Phones",
+    "rating": 4.7,
+    "image": "/assets/images/resource/project1-2.jpg",
+    "description": "A robust business phone designed for consistent day-to-day communication in busy workspaces.",
+    "specs": ["High-clarity handset", "Adjustable ringer volume", "Wall mount ready", "PBX / EPABX ready"]
+  },
+  {
+    "id": "skl1026",
+    "name": "SPARZ SKL1026 Office Phone",
+    "category": "Office Phones",
+    "rating": 4.6,
+    "image": "/assets/images/resource/project1-3.jpg",
+    "description": "A compact, easy-to-use office phone that keeps everyday calls clear, comfortable, and reliable.",
+    "specs": ["Ergonomic handset", "Redial function", "Mute and flash keys", "Low-maintenance design"]
+  },
+  {
+    "id": "skl1028",
+    "name": "SPARZ SKL1028 Executive Phone",
+    "category": "Business Phones",
+    "rating": 4.9,
+    "image": "/assets/images/resource/project1-4.jpg",
+    "description": "A premium analog telephone for executive cabins, reception areas, and high-visibility customer touchpoints.",
+    "specs": ["Premium finish", "Clear voice chipset", "Caller ID compatible", "3-year service support"]
+  },
+  {
+    "id": "skl1382",
+    "name": "SPARZ SKL1382 Hospitality Phone",
+    "category": "Hospitality",
+    "rating": 4.7,
+    "image": "/assets/images/resource/project1-5.jpg",
+    "description": "A clean, durable telephone solution for hotel rooms, guest services, and hospitality reception desks.",
+    "specs": ["Hotel-ready layout", "Message waiting light", "Wall mount ready", "Easy-clean finish"]
+  },
+  {
+    "id": "skl2045",
+    "name": "SPARZ SKL2045 Compact Phone",
+    "category": "Analog Phones",
+    "rating": 4.5,
+    "image": "/assets/images/resource/project1-1.jpg",
+    "description": "A space-saving analog phone for classrooms, clinics, security desks, and smaller workstations.",
+    "specs": ["Compact footprint", "Redial function", "Adjustable ringer volume", "Reliable corded connection"]
+  }
+]
