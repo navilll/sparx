@@ -5,7 +5,7 @@
     "category": "Analog Phones",
     "rating": 4.8,
     "image": "/assets/images/products/SKL019.png",
-    "images": ["/assets/images/products/SKL019.png"],
+    "images": ["/assets/images/products/SKL019.png","/assets/images/products/SKL109-01.webp","/assets/images/products/SKL109-03.webp"],
     "description": "The SKL019 is a smart and efficient corded phone for business and office environments. It features DTMF/FSK Caller ID, HD hands-free calling, a built-in calculator, programmable ringtones, volume control, call history memory, alarm functions, one-touch dialing, and intelligent call filtering.",
     "specs": ["Calculator function", "DTMF/FSK dual-standard Caller ID", "Caller ID and time record memory", "Real-time date and day display", "LCD brightness adjustable across 5 levels", "1-99 hours do-not-disturb mode", "16 common ringtone selections", "Programmable ring and hands-free volume", "Selectable FLASH time from 90ms to 1000ms"],
     "datasheet": "/assets/images/products/Sparz-SKL019_Datasheet-.pdf"
@@ -16,7 +16,7 @@
     "category": "Business Phones",
     "rating": 4.7,
     "image": "/assets/images/products/SKL101.png",
-    "images": ["/assets/images/products/SKL101.png"],
+    "images": ["/assets/images/products/SKL101.png","/assets/images/products/SKL101-01.webp","/assets/images/products/SKL101-02.webp"],
     "description": "The SKL101 is a compact, reliable corded landline phone for home and office use. Caller ID, an easy-to-read display, clear audio, call history memory, redial, and an ergonomic keypad make it dependable for reception areas, staff cabins, and everyday calling.",
     "specs": ["Incoming call memory up to 50 groups", "DTMF/FSK system compatible", "2 groups speed dial", "Outgoing call memory up to 14 groups", "LCD date and time display with 5 brightness levels", "16 ringtone groups", "Selectable FLASH time from 90ms to 1000ms", "Auto hang-up", "3 alarm clock settings"],
     "datasheet": "/assets/images/products/Sparz-SKL101_Datasheet-.pdf"
@@ -27,7 +27,7 @@
     "category": "Office Phones",
     "rating": 4.6,
     "image": "/assets/images/products/SKL1026.png",
-    "images": ["/assets/images/products/SKL1026.png"],
+    "images": ["/assets/images/products/SKL1026.png","/assets/images/products/SKL1026-01.webp","/assets/images/products/SKL1026-03.webp"],
     "description": "The SKL1026 is a reliable corded business phone with Caller ID for offices, call centers, and professional environments. It combines clear caller ID, voice clarity, a user-friendly design, and dependable operation without batteries or an adaptor.",
     "specs": ["FSK and DTMF compatible", "10 groups blacklist with auto off-hook", "10 groups speed dial", "Call memory retained without power", "Missed call indicator", "16 digital display indicators", "Incoming call memory up to 38 groups", "Outgoing call memory up to 12 groups", "Mute during calls or ringtone", "24 ringtone groups", "Hands-free dial and talking", "Pre-dial function"],
     "datasheet": "/assets/images/products/SPARZ-SKL1026-Datasheet-1.pdf"
@@ -38,7 +38,7 @@
     "category": "Business Phones",
     "rating": 4.9,
     "image": "/assets/images/products/SKL1028.png",
-    "images": ["/assets/images/products/SKL1028.png"],
+    "images": ["/assets/images/products/SKL1028.png","/assets/images/products/SKL1028-01.webp"],
     "description": "The SKL1028 is a feature-rich corded business phone built for front desks, administrative offices, and support centers. Its Caller ID, clear LCD display, ergonomic keypad, and stable corded connection support reliable high-volume communication.",
     "specs": ["Black and white color options", "Wall mountable", "TN LCD display", "Speakerphone", "Call log up to 50 entries", "Navigation key", "Caller ID", "Operates without battery", "New call LED indicator", "300 x 200 x 74 mm dimensions", "650 g weight"],
     "datasheet": "/assets/images/products/Sparz-SKL1028_Datasheet.pdf"

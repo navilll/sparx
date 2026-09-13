@@ -76,7 +76,7 @@ const PricingSection: React.FC = ()=> {
                     ))}
                   </ul>
                   <div className="btn-box">
-                    <Link href="/page-contact" className="theme-btn-main">
+                    <Link href="/contact-us" className="theme-btn-main">
                       <span className="theme-btn-arrow-left">
                         <i className="fa fa-arrow-right"></i>
                       </span>
