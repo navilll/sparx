@@ -52,7 +52,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ extraClassName }) => {
           <Link href="/products">Products</Link>
         </li>
         <li>
-          <Link href="/brands">Brands</Link>
+          <Link href="/solutions">Solutions</Link>
         </li>
         <li>
           <Link href="/contact">Contact</Link>

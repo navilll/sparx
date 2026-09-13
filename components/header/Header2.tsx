@@ -36,7 +36,7 @@ const Header2: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove
               {/* <!-- Mobile Nav toggler --> */}
               <div className="mobile-nav-toggler" onClick={handleOpen}><span className="icon lnr-icon-bars"></span></div>
             </div>
-            <Link href="#" className="theme-btn header-style-btn floating-btn"><span className="btn-title">Contact Now<i
+            <Link href="/contact" className="theme-btn header-style-btn floating-btn"><span className="btn-title">Contact Now<i
             className="fa fa-arrow-right"></i></span></Link>
         </div>
         {/* <!-- Mobile Menu  --> */}

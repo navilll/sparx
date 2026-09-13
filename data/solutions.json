@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Corporate Office Communication",
+    "eyebrow": "For offices and enterprises",
+    "description": "Keep reception desks, executive cabins, departments, and internal teams connected with dependable corded phones that work with existing PBX and EPABX systems.",
+    "overview": "A coordinated telephone setup helps office teams answer calls quickly, transfer conversations smoothly, and stay reachable throughout the workday. SPARZ solutions are selected for clear audio, simple operation, and reliable performance in busy professional environments.",
+    "idealFor": ["Corporate offices", "Reception and front desks", "Executive cabins", "Call support teams"],
+    "features": ["Reception and front-desk phones", "PBX and EPABX compatibility", "Caller ID and hands-free models", "Extension-ready desk phones", "Durable corded operation"],
+    "recommended": ["SKL019 for feature-rich reception desks", "SKL101 for everyday staff cabins", "SKL1028 for executive and customer-facing areas"],
+    "benefits": ["Clearer internal and external calls", "Simple controls for every team member", "Consistent operation without battery dependency", "Flexible support for growing departments"],
+    "steps": ["Understand your call flow and existing system", "Match phone features to each workspace", "Confirm quantities and delivery requirements", "Support your team during product adoption"],
+    "faqs": [{"question": "Can these phones work with an existing PBX?", "answer": "Selected SPARZ models are designed to work with PBX and EPABX systems. Our team can help confirm the right model for your setup."}, {"question": "Which phone is best for a reception desk?", "answer": "The SKL019 is a strong option when your receptionist needs Caller ID, hands-free calling, call memory, and quick access to daily features."}]
+  },
+  {
+    "title": "Hotel and Hospitality Phones",
+    "eyebrow": "For hotels and guest services",
+    "description": "Give guests and staff a simple, reliable way to communicate with practical room phones, reception phones, and guest-service solutions built for daily use.",
+    "overview": "Hospitality communication should be intuitive for guests and dependable for staff. SPARZ phones support clear communication between rooms, reception, concierge desks, and service teams while keeping operation straightforward.",
+    "idealFor": ["Guest rooms", "Hotel reception", "Concierge desks", "Service apartments"],
+    "features": ["Guest-room telephone solutions", "Reception and concierge phones", "Easy-to-use, low-maintenance designs", "Clear room-to-reception communication", "Durable designs for daily service"],
+    "recommended": ["SKL101 for compact room and staff use", "SKL1382 for premium desk placement", "KX-T888 for retro hospitality interiors"],
+    "benefits": ["Better guest access to hotel services", "Easy training for housekeeping and front desk teams", "Reliable room communication", "Professional presentation at every touchpoint"],
+    "steps": ["Review room count and service points", "Select models for rooms and public areas", "Plan quantities, placement, and compatibility", "Coordinate enquiry, delivery, and support"],
+    "faqs": [{"question": "Are the phones easy for guests to use?", "answer": "Yes. SPARZ models use familiar corded phone layouts and clear controls that require little instruction."}, {"question": "Can you help with larger hotel requirements?", "answer": "Yes. Share your room count and service requirements with our team for a suitable product recommendation."}]
+  },
+  {
+    "title": "Hospital and Healthcare Communication",
+    "eyebrow": "For healthcare teams",
+    "description": "Support clear communication between reception areas, nurse stations, departments, and service teams with reliable phones designed for demanding environments.",
+    "overview": "Healthcare teams need communication equipment that is easy to operate during busy shifts. SPARZ corded phones provide dependable voice communication for reception, nurse stations, consultation rooms, and administrative departments.",
+    "idealFor": ["Hospitals and clinics", "Nurse stations", "Reception areas", "Medical administration offices"],
+    "features": ["Nurse station and reception phones", "Clear audio for critical calls", "Durable corded operation", "Caller ID for faster call handling", "Simple controls for shift teams"],
+    "recommended": ["SKL019 for feature-rich stations", "SKL1026 for offices and departments", "SKL1028 for reception and administration"],
+    "benefits": ["Dependable communication during busy shifts", "Fast identification of incoming calls", "Reduced reliance on battery-powered devices", "Straightforward use across departments"],
+    "steps": ["Map communication points across the facility", "Identify high-volume and priority desks", "Choose suitable features for each department", "Plan supply and ongoing support"],
+    "faqs": [{"question": "Do the phones work without batteries?", "answer": "Several SPARZ corded models are designed to operate without batteries or an adaptor, depending on the model."}, {"question": "Can different departments use different models?", "answer": "Yes. A mixed deployment can match feature-rich phones to reception and simple reliable phones to staff areas."}]
+  },
+  {
+    "title": "Education and Campus Solutions",
+    "eyebrow": "For schools and institutions",
+    "description": "Connect administration offices, staff rooms, hostels, and campus reception points with straightforward phones that are easy for every team to use.",
+    "overview": "Schools and institutions need communication systems that remain useful for administrators, teachers, support staff, and campus visitors. SPARZ provides practical phones for offices, reception points, hostels, and internal coordination.",
+    "idealFor": ["Schools and colleges", "Campus reception", "Principal and administration offices", "Hostels and staff rooms"],
+    "features": ["Administration and reception phones", "Campus and hostel communication", "Simple setup and dependable service", "Caller ID and call memory", "Durable phones for shared spaces"],
+    "recommended": ["SKL101 for staff rooms and offices", "SKL1026 for administration teams", "SKL1382 for high-use reception points"],
+    "benefits": ["Faster coordination between campus teams", "Easy operation for varied users", "Reliable communication in shared spaces", "Practical options for phased deployment"],
+    "steps": ["List buildings and communication points", "Separate reception, office, and hostel needs", "Select compatible phone models", "Plan delivery and installation support"],
+    "faqs": [{"question": "Are these phones suitable for shared offices?", "answer": "Yes. Their corded design and familiar controls make them practical for offices and shared institutional spaces."}, {"question": "Can a school order in phases?", "answer": "Yes. We can help plan a phased product requirement based on buildings, departments, or campus priorities."}]
+  }
+]

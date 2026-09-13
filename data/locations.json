@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "bengaluru",
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "shortDescription": "Reliable analog phones and business communication support for Bengaluru workplaces.",
+    "description": "SPARZ TELECOM supports offices, hotels, hospitals, schools, and growing businesses across Bengaluru with dependable analog phones and practical communication solutions. Our local team helps organizations choose the right phone models for reception desks, staff cabins, guest rooms, and PBX-connected workspaces.",
+    "address": "1st Floor, No 28, DCNET BUILDING, 5th Cross, 6th Main Rd, Mico Layout, BTM Layout 2nd Stage, Bengaluru, Karnataka 560076",
+    "phone": "+91-7996167000",
+    "email": "rishika@sparz.co.in",
+    "services": ["Business analog phones", "PBX and EPABX compatible models", "Hotel and hospital communication phones", "Product guidance and after-sales support"]
+  },
+  {
+    "slug": "mumbai",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "shortDescription": "Business-ready telephone solutions for Mumbai offices, hospitality, and healthcare.",
+    "description": "From busy reception areas to hotel rooms and healthcare facilities, SPARZ provides Mumbai organizations with clear, durable, and easy-to-use analog phones. We help teams select communication equipment that fits their environment, call volume, and existing telephone systems.",
+    "address": "Serving businesses across Mumbai and Maharashtra",
+    "phone": "+91-7996167000",
+    "email": "rishika@sparz.co.in",
+    "services": ["Office and reception phones", "Hospitality telephone solutions", "Caller ID and hands-free models", "Bulk product enquiries"]
+  },
+  {
+    "slug": "delhi-ncr",
+    "name": "Delhi NCR",
+    "state": "Delhi, Haryana, and Uttar Pradesh",
+    "shortDescription": "Dependable communication products for organizations across Delhi NCR.",
+    "description": "SPARZ helps Delhi NCR organizations maintain dependable day-to-day communication with practical analog telephone systems. Our product range supports offices, schools, hospitals, hotels, and customer-facing teams that need consistent performance without complicated setup.",
+    "address": "Serving businesses across Delhi NCR",
+    "phone": "+91-7996167000",
+    "email": "rishika@sparz.co.in",
+    "services": ["Reliable corded telephones", "Business and institutional models", "PBX-ready communication products", "Enquiry and product selection support"]
+  }
+]
