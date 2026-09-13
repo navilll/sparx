@@ -51,7 +51,7 @@ const ProjectSwiper: React.FC = () => {
                   <div className="inner-box">
                       <div className="image-box">
                       <figure className="image">
-                    <Link href={`/products/${product.id}`}>
+                    <Link href={`/product/${product.id}`}>
                           <Image
                       src={product.image}
                       alt={product.name}
@@ -68,7 +68,7 @@ const ProjectSwiper: React.FC = () => {
                       </div>
                           <h4 className="title">{product.name}</h4>
                       </div>
-                          <Link href={`/products/${product.id}`} className="readmore" aria-label={`Read more about ${product.name}`}>
+                          <Link href={`/product/${product.id}`} className="readmore" aria-label={`Read more about ${product.name}`}>
                       <i className="fa fa-arrow-up-right" />
                       </Link>
                   </div>
