@@ -3,14 +3,8 @@
 import Image from "next/image";
 import { useState } from "react";
 
-const galleryImages = [
-  "/assets/images/resource/pro-details.png",
-  "/assets/images/resource/pro-details.png",
-  "/assets/images/resource/pro-details.png",
-];
-
-export default function ProductGallery({ name }: { name: string }) {
-  const [activeImage, setActiveImage] = useState(galleryImages[0]);
+export default function ProductGallery({ name, images }: { name: string; images: string[] }) {
+  const [activeImage, setActiveImage] = useState(images[0]);
 
   return (
     <div className="detail-gallery">
@@ -18,7 +12,7 @@ export default function ProductGallery({ name }: { name: string }) {
         <Image src={activeImage} alt={name} width={1000} height={760} priority />
       </div>
       <div className="detail-thumbs" aria-label="Product images">
-        {galleryImages.map((image, index) => (
+        {images.map((image, index) => (
           <button
             type="button"
             className={activeImage === image ? "active" : ""}

@@ -6,9 +6,11 @@ export type Product = {
   category: string;
   rating: number;
   image: string;
+  images?: string[];
   badge?: string;
   description: string;
   specs: string[];
+  datasheet?: string;
 };
 
 export const products = productCatalog as Product[];
