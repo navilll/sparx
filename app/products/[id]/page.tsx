@@ -27,13 +27,21 @@ export default async function ProductDetailPage({ params }: { params: Promise<{ 
                             <p>{product.description}</p>
                             <div className="detail-meta"><span><i className="fa fa-check-circle" /> Available for enquiry</span><span><i className="fa fa-truck" /> Delivery across India</span></div>
                             <div className="detail-specs-summary"><h2>Specifications</h2><ul>{product.specs.map((spec) => <li key={spec}><i className="fa fa-check" />{spec}</li>)}</ul></div>
-                            <EnquiryModal productName={product.name} />
+                            <div className="product-actions">
+                                <EnquiryModal productName={product.name} />
 
-                            {product.datasheet && (
-                                <a className="detail-datasheet" href={product.datasheet} target="_blank" rel="noreferrer">
-                                    Download data sheet <i className="fa-regular fa-file-pdf"></i> 
-                                </a>
-                            )}
+                                {product.datasheet && (
+                                    <a
+                                        className="detail-datasheet"
+                                        href={product.datasheet}
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
+                                        Download data sheet
+                                        <i className="fa-regular fa-file-pdf"></i>
+                                    </a>
+                                )}
+                            </div>
                             <div className="secure-note">
                                 <i className="fa fa-shield" /> Our team will help with product selection, quantity, and delivery.
                             </div>

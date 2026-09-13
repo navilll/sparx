@@ -4,7 +4,7 @@ import React, { useState } from "react";
 
 const accordionData = [
   {
-    title: "Corporate Office Solutions",
+    title: "Corporate Solutions",
     category: "Corporate",
     description:
       "We provide reliable analog phones for reception areas, executive cabins, and departmental use. Designed for clarity and durability, they integrate seamlessly with PBX/EPABX systems for smooth communication.",
@@ -12,7 +12,7 @@ const accordionData = [
     icon: "flaticon-targeted-marketing",
   },
   {
-    title: "Hotels and Reception Solutions",
+    title: "Hotels Solutions",
     category: "Hospitality",
     description:
       "We provide high-quality analog phones designed for guest rooms, lobbies, and front desks. Easy to use with minimal maintenance, they ensure seamless communication between guests and hotel staff.",
@@ -28,7 +28,7 @@ const accordionData = [
     icon: "flaticon-targeted-marketing",
   },
   {
-    title: "Education Analog Phones",
+    title: "Education Solutions",
     category: "Education",
     description:
       "We provide durable analog phones for receptions, principals' offices, staff rooms, and hostels. Easy to use and PBX-compatible, they enable smooth coordination and quick response across campuses.",
