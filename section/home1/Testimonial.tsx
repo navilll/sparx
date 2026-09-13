@@ -9,16 +9,16 @@ import "swiper/css/navigation";
 
 const testimonials = [
   {
-    text: `We switched our reception and executive cabins to SPARZ analog phones two years ago. The voice clarity is excellent and we haven't had a single unit fail on us since.`,
-    name: "Rajesh Mehta",
-    role: "Office Administrator",
-    image: "testi-author-1.webp",
-  },
-  {
     text: `Running a busy hotel front desk means we need phones that just work. SPARZ handsets have been reliable across every guest room and lobby extension without any maintenance calls.`,
     name: "Anita Sharma",
     role: "Hotel Manager",
     image: "testi-author-2.webp",
+  },
+  {
+    text: `We switched our reception and executive cabins to SPARZ analog phones two years ago. The voice clarity is excellent and we haven't had a single unit fail on us since.`,
+    name: "Rajesh Mehta",
+    role: "Office Administrator",
+    image: "testi-author-1.webp",
   },
   {
     text: `Our hospital needed dependable phones for nurse stations and doctor cabins. SPARZ integrated smoothly with our PBX system and the call transfers have never let us down.`,
