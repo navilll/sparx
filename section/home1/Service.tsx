@@ -104,7 +104,7 @@ const ServicesSection: React.FC = ()=> {
                       </ul>
 
                       <div className="btn-box">
-                        <Link href="/about" className="readmore">
+                        <Link href="/about-us" className="readmore">
                           Discover More
                         </Link>
                       </div>

@@ -35,8 +35,8 @@ const Header: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove2
           <div className="top-right">
             <div className="inner">
               <ul className="nav-list">
-                <li><Link href="#">Privacy Policy</Link></li>
-                <li><Link href="#">Terms & Conditions</Link></li>
+                <li><Link href="/privacy-policy">Privacy Policy</Link></li>
+                <li><Link href="/terms-and-conditions">Terms &amp; Conditions</Link></li>
               </ul>
               <ul className="social-icon-one light">
                 <li><Link href="#"><i className="fab fa-facebook-f"></i></Link></li>
@@ -66,7 +66,7 @@ const Header: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove2
 
           <div className="outer-box">
             <div className="btn-box">
-              <Link href="/contact" className="theme-btn btn-style-one">
+              <Link href="/contact-us" className="theme-btn btn-style-one">
                 <span className="btn-title">Get in Touch</span>
               </Link>
             </div>

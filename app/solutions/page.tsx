@@ -28,7 +28,7 @@ export default function SolutionsPage() {
                 <h3>{solution.title}</h3>
                 <p>{solution.description}</p>
                 <ul>{solution.features.map((feature) => <li key={feature}><i className="fa fa-check" />{feature}</li>)}</ul>
-                <Link href="/contact" className="solution-link">Discuss your requirement <i className="fa fa-arrow-right" /></Link>
+                <Link href="/contact-us" className="solution-link">Discuss your requirement <i className="fa fa-arrow-right" /></Link>
               </article>
             ))}
           </section>

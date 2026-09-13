@@ -49,20 +49,10 @@
     "category": "Hospitality",
     "rating": 4.7,
     "image": "/assets/images/products/SKL1382.png",
-    "images": ["/assets/images/products/SKL1382.png", "/assets/images/products/SKL1382 -2.png", "/assets/images/products/SKL1382-1-removebg-preview.png", "/assets/images/products/SKL1382-1.jpg"],
+    "images": ["/assets/images/products/SKL1382.png", "/assets/images/products/SKL1382 -2.png", "/assets/images/products/SKL1382-1.jpg"],
     "description": "The SKL1382 Analog Phone is a premium desk phone for small businesses, offices, and enterprises that demand reliability and efficiency. Its clear LCD display, DSS keys, and adjustable angle bracket support smooth call management and comfortable everyday communication.",
     "specs": ["FSK and DTMF compatible", "10 groups blacklist with auto off-hook", "8 groups speed dial", "Call memory retained without power", "Missed call indicator on LCD", "Incoming call memory up to 38 groups", "Outgoing call memory up to 12 groups", "Mute during calls or ringtone", "24 ringtone groups", "Works without batteries or adaptor", "Hands-free dial and talking", "Pre-dial function"],
     "datasheet": "/assets/images/products/Sparz-SKL1382_Datasheet.pdf"
-  },
-  {
-    "id": "skl1038",
-    "name": "SPARZ SKL1038 Business Phone",
-    "category": "Business Phones",
-    "rating": 4.7,
-    "image": "/assets/images/products/SKL1038.png",
-    "images": ["/assets/images/products/SKL1038.png"],
-    "description": "A dependable corded business phone designed for clear, efficient communication across professional workspaces.",
-    "specs": ["Caller ID support", "Clear hands-free communication", "Corded reliability", "Business-ready keypad"]
   },
   {
     "id": "kx-t888",

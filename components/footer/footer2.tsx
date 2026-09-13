@@ -93,7 +93,7 @@ const Footer2: React.FC = () => {
                     <Link href="/about-us">About Us</Link>
                   </li>
                   <li>
-                    <Link href="/brands">Brands</Link>
+                    <Link href="/locations">Locations</Link>
                   </li>
                   <li>
                     <Link href="/products">Products</Link>
@@ -166,8 +166,8 @@ const Footer2: React.FC = () => {
             </div>
             <div className="right-box">
               <ul className="footer-nav">
-                <li>Terms & Conditions</li>
-                <li>Privacy Policy</li>
+                <li><Link href="/terms-and-conditions">Terms &amp; Conditions</Link></li>
+                <li><Link href="/privacy-policy">Privacy Policy</Link></li>
               </ul>
               <div
                 className="scroll-to-top"

@@ -46,7 +46,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ extraClassName }) => {
           <Link href="/">Home</Link>
         </li>
         <li>
-          <Link href="/about">About</Link>
+          <Link href="/about-us">About</Link>
         </li>
         <li>
           <Link href="/products">Products</Link>
@@ -55,7 +55,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ extraClassName }) => {
           <Link href="/solutions">Solutions</Link>
         </li>
         <li>
-          <Link href="/contact">Contact</Link>
+          <Link href="/contact-us">Contact</Link>
         </li>
       </ul>
     </>

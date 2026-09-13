@@ -9,10 +9,10 @@ interface NavLinksProps {
 
 const navItems = [
     { href: "/", label: "Home" },
-    { href: "/about", label: "About" },
+    { href: "/about-us", label: "About" },
     { href: "/products", label: "Products" },
     { href: "/solutions", label: "Solutions" },
-    { href: "/contact", label: "Contact" },
+    { href: "/contact-us", label: "Contact" },
 ];
 
 const NavLinks: React.FC<NavLinksProps> = ({ extraClassName = "" }) => {

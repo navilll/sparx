@@ -49,7 +49,7 @@ const About: React.FC = ()=> {
                             <li><i className="fa fa-check-circle"></i> PBX and EPABX compatible solutions on selected models</li>
                         </ul>
                         <div className="btn-box">
-                            <Link className="theme-btn-main" href="/about">
+                            <Link className="theme-btn-main" href="/about-us">
                                 <span className="theme-btn-arrow-left"><i className="fa fa-arrow-right"></i></span>
                                 <span className="theme-btn">Discover More</span>
                                 <span className="theme-btn-arrow-right"><i className="fa fa-arrow-right"></i></span>

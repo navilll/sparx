@@ -30,13 +30,13 @@ const Header2: React.FC<HeaderProps> = ({ handleOpen, handleRemove, handleRemove
             <div className="outer-box">
               <div className="info-btn">
                   <i className="icon fa fa-phone"></i>
-                  <Link href="#" className="phone">+92 526 420 009</Link>
+                  <Link href="tel:+917996167000" className="phone">+91 7996167000</Link>
               </div>
 
               {/* <!-- Mobile Nav toggler --> */}
               <div className="mobile-nav-toggler" onClick={handleOpen}><span className="icon lnr-icon-bars"></span></div>
             </div>
-            <Link href="/contact" className="theme-btn header-style-btn floating-btn"><span className="btn-title">Contact Now<i
+            <Link href="/contact-us" className="theme-btn header-style-btn floating-btn"><span className="btn-title">Contact Now<i
             className="fa fa-arrow-right"></i></span></Link>
         </div>
         {/* <!-- Mobile Menu  --> */}
