@@ -29,7 +29,7 @@ const BannerSection: React.FC = ()=> {
       id: 2,
       title: (
         <>
-          Reliable Communication.
+          Reliable Phones.
           <br />
           Built for <span className="color">Business</span>
         </>
