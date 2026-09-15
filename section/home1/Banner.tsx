@@ -16,8 +16,7 @@ const BannerSection: React.FC = ()=> {
         <>
           <span>Sparz Telecom</span>
           <br />
-          Voice for India&apos;s{""}
-          <br/><span className="color">Business</span>
+          Voice for India&apos;s
         </>
       ),
       text: "Premium analog phones built for clear, reliable communication across offices, hotels, hospitals, schools, and businesses and many more.",
@@ -29,9 +28,9 @@ const BannerSection: React.FC = ()=> {
       id: 2,
       title: (
         <>
-          Reliable Phones.
+          <span>Reliable Phones</span>
           <br />
-          Built for <span className="color">Business</span>
+          Fit for Business
         </>
       ),
       text: "Professional analog phones for offices, hotels, hospitals, and educational institutions. Designed for dependable everyday communication.",
@@ -51,7 +50,7 @@ const BannerSection: React.FC = ()=> {
           prevEl: ".banner-swiper-prev",
         }}
         autoplay={{
-          delay: 10000,
+          delay: 109000,
           disableOnInteraction: false,
         }}
         loop
@@ -66,7 +65,7 @@ const BannerSection: React.FC = ()=> {
 
                 <div className="row">
                   {/* Content Column */}
-                  <div className="content-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                  <div className="content-column col-xl-7 col-lg-12 col-md-12 col-sm-12">
                     <div className="inner-column">
                       <h1 className="title animate-2">
                         {slide.title}
@@ -98,7 +97,7 @@ const BannerSection: React.FC = ()=> {
                   </div>
 
                   {/* Image Column */}
-                  <div className="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                  <div className="image-column col-xl-5 col-lg-12 col-md-12 col-sm-12">
                     <div className="inner-column animate-x">
                       <div className="icon-lines zoom-in"></div>
 
